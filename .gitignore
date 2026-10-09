@@ -1,0 +1,13 @@
+# 鍵・秘密と、運用中に溜まるデータは公開しない
+.pusyuuHiddenFiles/
+.env
+*.pem
+*.jsonl
+*.log
+*.lock
+*.tmp
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
